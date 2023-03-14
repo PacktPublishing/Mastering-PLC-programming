@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 | 1-16     | CODESYS                                   | Windows     |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/bqJiM.).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/bqJiM).
 
 ### Related products <Other books you may enjoy>
 * PLC and HMI Development with Siemens TIA Portal [[Packt]](https://www.packtpub.com/product/plc-and-hmi-development-with-siemens-tia-portal/9781801817226) [[Amazon]](https://www.amazon.com/PLC-HMI-Development-Siemens-Portal/dp/1801817227)
