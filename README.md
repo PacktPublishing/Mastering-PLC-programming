@@ -58,3 +58,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **M.T White**
 He has been programming since the age of 12. His fascination with robotics flourished when he was a child programming microcontrollers like Arduinos. M.T currently holds an undergraduate degree in Mathematic, a Masters in Software Engineering, and is currently working on an MBA in IT project management.
 M.T is currently working as software developer for a major U.S defense contractor and is an adjunct CIS instructor at ECPI University. His background mostly stems from the automation industry where he programmed PLCs and HMIs for many different types of applications. M.T has programmed many different brands of PLCs over the years and has developed HMIs using many different tools.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804612880">https://packt.link/free-ebook/9781804612880 </a> </p>
